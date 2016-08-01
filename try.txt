@@ -5,3 +5,8 @@ di edit lewat git
 -----------------------
 
 edit lagi di local
+
+-----------------------
+
+edit di git
+-------------------
